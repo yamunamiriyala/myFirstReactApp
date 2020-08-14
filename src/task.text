@@ -1,0 +1,3 @@
+create a component named - email and pass the value of email
+from home component to email component and 
+print the value of email inside the email component
